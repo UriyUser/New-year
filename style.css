@@ -35,6 +35,7 @@ body {
 
 marquee {
     position: absolute;
+    width: 1280px;
     top: 650px;
     left: 0;
     background: blue;
